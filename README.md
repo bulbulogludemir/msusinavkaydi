@@ -1,1 +1,1 @@
-# msusinavkaydi
+# 2022 - MSÜ SINAV KAYDI REHBERİ
