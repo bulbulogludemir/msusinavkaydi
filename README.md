@@ -13,7 +13,7 @@ Sağ Yukarıdan "e-Devlet ile Kayıt Ol" butonuna tıklayınız.
 ![image](https://user-images.githubusercontent.com/31479027/149406479-71414105-14d7-4794-a239-fcdefcdd51dc.png)
 
 ## Adım 3:
-e-Devlet'in giriş paneli ile karşılaşacaksınız. e-Devlet bilgilerinizi girip "Giriş Yap" butonuna tıklayınız. Eğer e-Devlet'e hiç giriş yapmadıysanız ve bilgilerinizi bilmiyor iseniz [Buraya]() tıklayınız.
+e-Devlet'in giriş paneli ile karşılaşacaksınız. e-Devlet bilgilerinizi girip "Giriş Yap" butonuna tıklayınız.
 ![image](https://user-images.githubusercontent.com/31479027/149406653-dd5c6622-0976-42d6-a6d1-4ab41fe8283a.png)
 
 ## Adım 3:
