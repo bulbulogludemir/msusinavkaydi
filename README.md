@@ -1,8 +1,8 @@
 # 2022 - MSÜ SINAV KAYDI REHBERİ
 
 
-**Bilgilendirme:
-- Yeni çıkarılan TC Kimlik Kartına sahip olmayan kişilerin yeni kimlik kartını çıkartmaları tavsiye edilir. Ben yine de eski kimlik kartı olan kişiler için de nasıl başvurulacağını anlatacağım.**
+**Bilgilendirme:**
+- Yeni çıkarılan TC Kimlik Kartına sahip olmayan kişilerin yeni kimlik kartını çıkartmaları gerekmektedir.
 
 ## Adım 1:
 [Buraya](https://ais.osym.gov.tr) tıklayarak "ÖSYM Aday İşlemleri" adresine gidin.
