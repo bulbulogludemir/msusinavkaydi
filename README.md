@@ -6,6 +6,6 @@
 
 ## Adım 1:
 [Buraya](https://ais.osym.gov.tr) tıklayarak "ÖSYM Aday İşlemleri" adresine gidin.
-![https://i.hizliresim.com/sm1739i.jpg]
+!(https://i.hizliresim.com/sm1739i.jpg)
 
 ## Adım 2:
