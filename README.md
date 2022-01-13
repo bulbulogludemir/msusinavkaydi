@@ -61,6 +61,7 @@ NOT: SON GÜN 10 ŞUBAT
 ![image](https://user-images.githubusercontent.com/31479027/149410490-a6717bfe-0cc1-4c05-87c3-c9eb82db3817.png)
 
 ## Adım 2:
+Karşınıza çıkan menüden "ÖDE" butonuna basınız ve ödeme işleminizi gerçekleştiriniz.
 
-
-
+## Adım 3:
+Ödeme işleminiz bittikten sonra kayıt rehberindeki "Adım 9" da bahsi geçen bölüme bakınız ve ödeme durumunuzun güncel halini kontrol ediniz.
