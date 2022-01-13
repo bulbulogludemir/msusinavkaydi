@@ -64,4 +64,6 @@ NOT: SON GÜN 10 ŞUBAT
 Karşınıza çıkan menüden "ÖDE" butonuna basınız ve ödeme işleminizi gerçekleştiriniz.
 
 ## Adım 3:
-Ödeme işleminiz bittikten sonra kayıt rehberindeki "Adım 9" da bahsi geçen bölüme bakınız ve ödeme durumunuzun güncel halini kontrol ediniz.
+Ödeme işleminiz bittikten sonra tekrardan https://ais.osym.gov.tr adresine gidin ve eğer sistemden çıkış yapılmış ise "e-Devlet ile Giriş" butonuna basıp giriş sağlayınız. Giriş yaptıktan sonra sağ menüden Başvurularım/Tercihlerim bölümüne gidiniz ve başvurunuzu kontrol ediniz.
+Not: EĞer ödemeniz yapılmamış ise şu şekilde bir uyarı gözükecektir.
+![image](https://user-images.githubusercontent.com/31479027/149411192-81d8f5e9-ebfe-4624-bfd0-6aebcab9cb16.png)
