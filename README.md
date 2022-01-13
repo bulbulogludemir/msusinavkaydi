@@ -53,3 +53,14 @@ Kontrol aşaması bittikten sonra karşınıza küçük bir pencere çıkacaktı
 Başvurunuzun iptal olmaması için yukarıdan "Ödeme Bilgileri" sekmesine tıklayınız ve orada belirtilen bilgilere göre ödemenizi yapınız. 
 NOT: SON GÜN 10 ŞUBAT
 ![image](https://user-images.githubusercontent.com/31479027/149409657-b8574342-5942-4d52-9818-182f5fa57206.png)
+
+# 2022 - MSÜ BAŞVURU ÜÇRETİ ÖDEME REHBERİ
+
+## Adım 1:
+[Buraya](https://odeme.osym.gov.tr/) tıklayarak veya en son açılan paneldeki linke tıklayarak (https://odeme.osym.gov.tr/) ödeme bölümüne gidiniz. Resimdeki gibi 2022-MSÜ yü seçin ve TC kimlik numaranızı girin. Daha sonrasında "Devam" a tıklayınız.
+![image](https://user-images.githubusercontent.com/31479027/149410490-a6717bfe-0cc1-4c05-87c3-c9eb82db3817.png)
+
+## Adım 2:
+
+
+
