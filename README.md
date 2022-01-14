@@ -41,7 +41,7 @@ Daha sonrasında MSÜ-2022 ye başvurmak için sol menüden sınava başvuru pan
 Karşımıza sınava başvuru yapabilmemiz için kayıt bölümü gelecektir. 9 Adımlı bu bölümü hatasız ve eksiksiz bir şekilde doldurmanız gerekmektedir.
 ![image](https://user-images.githubusercontent.com/31479027/149408639-e4082284-29a6-4891-8890-594995deab60.png)
 ### 4.Sekme için bu şekilde doldurmanız gerekmekte. 
-Not Anne/Baba telefon numarasına başında 0 olmayacak şekilde doldurulması gerekmektedir.
+Not: Anne/Baba telefon numarasına başında 0 olmayacak şekilde doldurulması gerekmektedir.
 ![image](https://user-images.githubusercontent.com/31479027/149409004-4336dd6a-1691-4144-9fb4-e025a458653c.png)
 
 ## Adım 7.1:
