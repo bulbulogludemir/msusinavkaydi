@@ -2,7 +2,11 @@
 
 
 **Bilgilendirme:**
-- Yeni çıkarılan TC Kimlik Kartına sahip olmayan kişilerin yeni kimlik kartını çıkartmaları gerekmektedir.
+- Yeni çıkarılan TC Kimlik Kartına sahip olmayan kişilerin yeni kimlik kartını çıkartmaları gerekmektedir. Eğer yeni kimlik kartınız yok ise sistemde tanımlı bir fotoğrafınız olmadığından dolayı başvurularınızı bir ÖSYM Başvuru Merkezi aracılığı ile yapmanız gerekmekte. Başvuru merkezlerini görmek için [buraya](https://dokuman.osym.gov.tr/pdfdokuman/2022/MSU/bm13012022.pdf) tıklayınız. Başvuru sırasında yanınızda nüfüs cüzdanınızın veya pasaportunuzun sizinle birlikte olması gerekmektedir.
+- Sınav Tarihi: 27 Mart 2022 Pazar
+- Sınav Saati ve Süresi: 10.00 - 11:15 (135 dakika) 
+- Sınav Ücreti: 130₺
+- Sınav Ücreti Ödeme Son Günü: 10 Şubat 2022
 
 ## Adım 1:
 [Buraya](https://ais.osym.gov.tr) tıklayarak "ÖSYM Aday İşlemleri" adresine gidin.
@@ -62,6 +66,7 @@ NOT: SON GÜN 10 ŞUBAT
 
 ## Adım 2:
 Karşınıza çıkan menüden "ÖDE" butonuna basınız ve ödeme işleminizi gerçekleştiriniz.
+Ödeme yöntemleri: Akbank, Finansbank, Halkbank, ING Bank, Vakıf Katılım Bankası ve Kuveyt Türk Katılım Bank’ın tüm şubeleri, ATM ve internet bankacılığı, Ziraat Bankası internet bankacılığı ve mobil bankacılık.
 
 ## Adım 3:
 Ödeme işleminiz bittikten sonra tekrardan https://ais.osym.gov.tr adresine gidin ve eğer sistemden çıkış yapılmış ise "e-Devlet ile Giriş" butonuna basıp giriş sağlayınız. Giriş yaptıktan sonra sağ menüden Başvurularım/Tercihlerim bölümüne gidiniz ve başvurunuzu kontrol ediniz.
