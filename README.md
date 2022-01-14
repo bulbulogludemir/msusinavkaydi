@@ -45,17 +45,11 @@ Not Anne/Baba telefon numarasına başında 0 olmayacak şekilde doldurulması g
 ![image](https://user-images.githubusercontent.com/31479027/149409004-4336dd6a-1691-4144-9fb4-e025a458653c.png)
 
 ## Adım 7.1:
-Ödeme bölümünü geçip en son sekmeye gelip "Başvuru Kontrol ve Önizleme" butonuna basınız. 
-NOT: Ödeme için son gün 10 Şubat ve ücret 130₺ idir.
+Ödeme bölümünü geçip en son sekmeye gelip "Başvuru Kontrol ve Önizleme" butonuna basınız. Kontrol aşaması bittikten sonra karşınıza küçük bir pencere çıkacaktır, bilgileri kontrol edin ve "Onayla" butonuna basınız.
 ![image](https://user-images.githubusercontent.com/31479027/149409293-e74eea78-e43b-4857-b74b-7e2660342fb7.png)
 
 ## Adım 8:
-Kontrol aşaması bittikten sonra karşınıza küçük bir pencere çıkacaktır, bilgileri kontrol edin ve "Onayla" butonuna basınız. Daha sonrasında bu şekilde bir pencere ile karşılaşaksınız.
-![image](https://user-images.githubusercontent.com/31479027/149409528-7068cafc-5719-4368-88a1-b98537b6fdbc.png)
-
-## Adım 9:
 Başvurunuzun iptal olmaması için yukarıdan "Ödeme Bilgileri" sekmesine tıklayınız ve orada belirtilen bilgilere göre ödemenizi yapınız. 
-NOT: SON GÜN 10 ŞUBAT
 ![image](https://user-images.githubusercontent.com/31479027/149409657-b8574342-5942-4d52-9818-182f5fa57206.png)
 
 # 2022 - MSÜ BAŞVURU ÜÇRETİ ÖDEME REHBERİ
