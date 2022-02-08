@@ -64,5 +64,5 @@ Karşınıza çıkan menüden "ÖDE" butonuna basınız ve ödeme işleminizi ge
 
 ## Adım 3:
 Ödeme işleminiz bittikten sonra tekrardan https://ais.osym.gov.tr adresine gidin ve eğer sistemden çıkış yapılmış ise "e-Devlet ile Giriş" butonuna basıp giriş sağlayınız. Giriş yaptıktan sonra sağ menüden Başvurularım/Tercihlerim bölümüne gidiniz ve başvurunuzu kontrol ediniz.
-Not: EĞer ödemeniz yapılmamış ise şu şekilde bir uyarı gözükecektir.
+Not: Eğer ödemeniz yapılmamış ise şu şekilde bir uyarı gözükecektir.
 ![image](https://user-images.githubusercontent.com/31479027/149411192-81d8f5e9-ebfe-4624-bfd0-6aebcab9cb16.png)
